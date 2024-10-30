@@ -9,12 +9,11 @@ In today’s fast-paced tech landscape, AI has revolutionized how developers wor
   - [Replit Agents](#replit-agents)
   - [Webcrums.org](#webcrumsorg)
   - [V0](#v0)
-- Single Tools
+- Code Assistance Tools
   - [aider](#aider)
 - IDEs
   - [Cursor](#cursor)
   - [PearAI](#pearai)
-  - [Kodegraph](#kodegraph)
 - Plugins
   - [Continuium](#continuium)
   - [Cline](#cline)
