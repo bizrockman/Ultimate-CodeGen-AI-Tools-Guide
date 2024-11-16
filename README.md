@@ -10,6 +10,7 @@ In today’s fast-paced tech landscape, AI has revolutionized how developers wor
   - [Webcrums.org](#webcrumsorg)
   - [V0](#v0)
   - [Townie](#Townie)
+  - OpenWebUI + Artefacts v2
 - Code Assistance Tools
   - [aider](#aider)
 - IDEs
@@ -41,6 +42,8 @@ In today’s fast-paced tech landscape, AI has revolutionized how developers wor
 [Townie](https://www.val.town/townie) - Another Version of V0 and Bolt style coding experiance.
 
 ![](https://img.shields.io/badge/Open%20Source-%E2%9C%94-green) - [Open Artefacts](https://github.com/13point5/open-artifacts) - Open Artifacts is a free, open-source project that clones the functionality of Claude while supporting the generation of Artifacts with Anthropic and OpenAI LLMs using the user's API keys.
+
+![](https://img.shields.io/badge/Open%20Source-%E2%9C%94-green) [Open Web UI + Artefacts v2](https://github.com/open-webui/open-webui) - Open WebUI is an extensible, feature-rich, and user-friendly self-hosted WebUI designed to operate entirely offline. https://openwebui.com/f/tokyohouseparty/artifacts_v2 
 
 
 # Code Assistance Tools
