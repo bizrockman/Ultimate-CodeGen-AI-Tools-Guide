@@ -9,7 +9,7 @@ In today’s fast-paced tech landscape, AI has revolutionized how developers wor
   - [Replit Agents](#replit-agents)
   - [Webcrums.org](#webcrumsorg)
   - [V0](#v0)
-  - [Townie] (#Townie)
+  - [Townie](#Townie)
 - Code Assistance Tools
   - [aider](#aider)
 - IDEs
