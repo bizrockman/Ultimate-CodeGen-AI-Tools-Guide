@@ -6,6 +6,7 @@ In today’s fast-paced tech landscape, AI has revolutionized how developers wor
 ## Table of Contents
 - Coding Environments
   - [Bolt.new](#boltnew)
+  - [lovable.dev](#lovable.dev)
   - [Replit Agents](#replit-agents)
   - [Webcrums.org](#webcrumsorg)
   - [V0](#v0)
@@ -22,12 +23,15 @@ In today’s fast-paced tech landscape, AI has revolutionized how developers wor
   - [GitHub CoPilot](#github-copilot)
   - [Supermaven](#supermaven)
   - [Codeium](#codeium)
+  - [Kodu.ai](#koduai)
 - LLMs
   - [Claude](#claude)
 
 
 # Coding Envionments
 [Bolt.new](https://bolt.new/) - Bolt.new by StackBlitz is a browser-based full-stack development tool that combines AI with WebContainers, enabling developers to build, run, and deploy applications directly in-browser. This platform offers a smooth, code-free setup by leveraging AI prompts for rapid prototyping, environment control, and seamless deployment, making it ideal for projects requiring quick iteration and collaboration without the need for local installations or complex configurations. The tool's AI can handle the full project lifecycle, from configuring servers to managing files and dependencies, streamlining the entire development workflow.
+
+[lovable.dev](https://lovable.dev) - Looks like a clone from Bolt.new.
 
 ![](https://img.shields.io/badge/Open%20Source-%E2%9C%94-green) [Bolt.new - Fork](https://github.com/coleam00/bolt.new-any-llm) - Bolt.new but for all kind of LLMs.
 
@@ -67,6 +71,7 @@ In today’s fast-paced tech landscape, AI has revolutionized how developers wor
 
 [Codeium](https://codeium.com/) - Codeium is an AI-driven coding assistant that excels in generating intelligent code snippets, error resolution, and streamlining repetitive coding tasks. With strong IDE integration, including compatibility with VSCode, JetBrains, and Android Studio, it supports multiple programming languages and provides context-aware autocompletions, search capabilities, and an in-editor chat for refactoring or documentation needs. Unlike some AI assistants, Codeium also offers a secure environment by not using customer data to train its models, maintaining a focus on data privacy​.
 
+[Kodu.ai](https://www.kodu.ai/) - Kodu AI is your ultimate coding companion. Just describe your software idea and our advanced AI will autonomously build it for you. VS Code Extension. Unleash Claude 3.5 Sonnet in VSCode with Claude Coder.
 
 # LLMs
 [Claude 3.5 Sonnet](https://www.anthropic.com/news/claude-3-5-sonnet) - Claude 3.5 Sonnet’s Artifacts feature is a standout tool that allows users to generate complex, standalone pieces of content, such as code snippets, diagrams, documents, or even interactive components. These Artifacts appear in a separate, dedicated workspace within the interface, making it easy to view, edit, and iterate on generated content in real-time. This feature is particularly useful for developers who want to create or refine assets collaboratively, as they can adjust or build upon these outputs directly, enhancing productivity and interactivity in project workflows. Artifacts can also be saved, revisited, and versioned, which is ideal for handling substantial content over time, supporting collaboration on everything from coding to design.
